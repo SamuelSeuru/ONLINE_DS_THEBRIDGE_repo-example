@@ -1,0 +1,27 @@
+-> problemas que me gustaría resolver usando datos:
+
+1) un sistema que permite saber si hace falta para conseguir un puesto de profesor en la universidad
+ publicar necesaramente sus trabajos en revistas prestigiosas
+
+2) un sistema que permite saber la cantidad minima de articulos que hay que publicar para conseguir un puesto de profesor en antropología en la universidad 
+
+3) un sistema que permite saber el ratio : numero de doctorandos que se han graduado en los ultimos 10 años en antropología en el mundo / numero de estos doctorandos que han conseguido un puesto de profesor en la universidad
+
+4) un detector de terremoto
+
+5) un detector de amistad
+
+----------------------------------------------------------------------------------------------------------------------------
+
+-> conjunto de datos que me gustaría usar:
+
+1) compilar a partir del CV academico de cada profesor una database enseñando donde han publicado
+
+2) compilar a partir del CV academico de cada profesor una database enseñando cuantos articulos se han publicado
+
+3) compilar una database a partir de cada lista de graduates publicada por cada universidad cada año y compilar una database de los nombres
+de cada profesor de cada departamento de antropología de los ultimos 10 años
+
+4) cualquiera database ya disponible (ej, https://www.emsc-csem.org/)
+
+5) aqui habría que hacer un trabajo de etnografo, a traves de una encuesta por ejemplo a 100 personas que tienen un amigo cercano y preguntandoles que es lo que les pareció su amigo la primera vez que se vieron (que sentimiento, que imagen,...), para ver si hay tendencias que salen. Luego cuando se encuentra a un potential futuro amigo por primera ves, si se siente o observa algunas de estas tendencias, pues habria un "grado de amistad" que indica el porcentaje de probabilidad que esta persona se convierta en un futuro amigo.
